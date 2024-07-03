@@ -1,5 +1,19 @@
 # pdm-login
 
+## Layout
+
+### Loading screen
+
+![](assets/loading.png)
+
+### Login screen
+
+![](assets/login.png)
+
+### Sign-up screen
+
+![](assets/signup.png)
+
 Setup process:
 
 ```sh
